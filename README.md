@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niza23
+- 👋 Hi, I’m Nidhi Zala
 - 👀 I’m interested in Software Engineering, Data Analytics, IOT, and Web Devlopment(
 frontend)
 - 🌱 I’m currently learning Data Structure and Algorithm, Devops
