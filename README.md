@@ -32,5 +32,5 @@
 ---
 
 ## 📫 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/nidhi-zala-2307/) | [Credly Badges](https://www.credly.com/users/nidhi-zala.53f3d4c8)  
+[Email](mailto:nidhizala2307@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nidhi-zala-2307/) | [Credly Badges](https://www.credly.com/users/nidhi-zala.53f3d4c8)  
 
