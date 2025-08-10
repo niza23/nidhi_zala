@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Devops Projects
 [**AI-Driven DevOps Code Generator**]
 *Python, LLMs, Docker, Kubernetes, Terraform, AWS*  
 > CLI tool to auto-generate Terraform, Docker, and K8s configs from prompts, accelerating DevOps workflows.
