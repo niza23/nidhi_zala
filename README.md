@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nidhi Zala  
 
-🚀 **Site Reliability Engineer | AWS | Kubernetes | Terraform | Python**  
+🚀 **Site Reliability Engineer | AWS | Kubernetes | Terraform | Python | Linux | Jenkins | Prometheus | Grafana**  
 
 💡 I specialize in building reliable, scalable, and cost-efficient cloud infrastructures — saving $78K/year and delivering 99.9% uptime at IBM.  
 📈 Passionate about FinOps, automation, and observability.  
