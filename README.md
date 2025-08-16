@@ -2,35 +2,37 @@
 
 🚀 **Site Reliability Engineer | AWS | Kubernetes | Terraform | Python | Linux | Jenkins | Prometheus | Grafana**  
 
-💡 I specialize in building reliable, scalable, and cost-efficient cloud infrastructures — saving cost and delivering 99.9% uptime at IBM.  
-📈 Passionate about GenAI, Kubernetes, AWS, automation, and observability.  
-🛠 Certified Terraform Associate | IBM Mentor Badge holder | Hackathon Award Winner  
+I’m an SRE with **2+ years of experience** building reliable, scalable, and cost-efficient cloud-native platforms on **AWS, Kubernetes, and OpenShift**. I love solving complex infrastructure challenges, automating everything, and improving developer velocity with modern DevOps practices.  
 
 ---
 
-## 🔧 Tech Stack
-- **Cloud & Containers:** AWS, Kubernetes, Docker, OpenShift
-- **IaC & Automation:** Terraform, Ansible, Jenkins, CI/CD
-- **Monitoring:** Prometheus, Grafana, Instana
-- **Programming:** Python, Shell, Linux
+## 🔧 Tech Stack  
+- **Languages & Scripting**: Python, Shell, Linux  
+- **Cloud & Containers**: AWS, Kubernetes, OpenShift, Docker, MongoDB  
+- **Infrastructure as Code**: Terraform, Ansible  
+- **CI/CD & Version Control**: Jenkins, Git, GitHub  
+- **Monitoring & Observability**: Prometheus, Grafana, Instana, CloudWatch  
 
 ---
 
-## 📌 Devops Projects
-[**AI-Driven DevOps Code Generator**]
-*Python, LLMs, Docker, Kubernetes, Terraform, AWS*  
-> CLI tool to auto-generate Terraform, Docker, and K8s configs from prompts, accelerating DevOps workflows.
-
-[**Three-tier MERN Stack Deployment**]
-*MongoDB, React, Node.js, AWS, Jenkins*  
-> Scalable MERN app deployed on AWS EKS with Terraform provisioning, CI/CD, and observability integration.
-
-[**AWS Infrastructure Setup with Terraform**]
-*Terraform, AWS VPC, S3, Load Balancer*  
-> Highly available AWS architecture with ALB, EC2, and S3.
+## 🎖 Certifications & Achievements  
+- HashiCorp **Terraform Associate** (2025)  
+- IBM **Mentor Badge** (2025)  
+- 🏆 **People’s Choice Award** – IBM Hackathon (2024)  
+- IBM **CSR Volunteer Award** (2024)  
 
 ---
 
-## 📫 Connect With Me  
-[Email](mailto:nidhizala2307@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nidhi-zala-2307/) | [Credly Badges](https://www.credly.com/users/nidhi-zala.53f3d4c8)  
+## 👩‍💻 Leadership  
+- Alumni Interview Mentor – guided 35+ undergrads in mock interviews.  
+- General Secretary, **Encode CS Club** – mentored peers, hosted tech events.  
+- Treasurer, **IEEE Student Chapter** – managed finances & event planning.
+  
+---
 
+## 🌐 Let’s Connect  
+📫 [Email](mailto:nidhizala2307@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/nidhi-zala-2307) | 🏆 [Credly](https://www.credly.com/users/nidhi-zala.53f3d4c8)
+
+---
+
+✨ Always exploring **DevOps + AI** intersections and looking to collaborate on open-source projects that make cloud-native systems more reliable!  
