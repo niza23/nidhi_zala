@@ -8,7 +8,7 @@ I’m an SRE with **2+ years of experience** building reliable, scalable, and co
 
 ## 🔧 Tech Stack  
 - **Languages & Scripting**: Python, Shell, Linux  
-- **Cloud & Containers**: AWS, Kubernetes, OpenShift, Docker, MongoDB  
+- **Cloud, Containers and DB**: AWS, Kubernetes, OpenShift, Docker, MongoDB  
 - **Infrastructure as Code**: Terraform, Ansible  
 - **CI/CD & Version Control**: Jenkins, Git, GitHub  
 - **Monitoring & Observability**: Prometheus, Grafana, Instana, CloudWatch  
